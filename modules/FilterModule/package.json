@@ -2,7 +2,7 @@
     "name": "filtermodule",
     "version": "0.0.1",
     "devDependencies": {
-        "mocha": "^6.1.4"
+        "mocha": "^6.2.3"
     },
     "dependencies": {
         "azure-iot-device": "^1.9.9",
